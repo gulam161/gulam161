@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gulam Murtuza</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">About Ambitious, results-driven frontend developer with a passion for innovative web applications. Excels in collaborative environments, working effectively with diverse teams to achieve project objectives. Proficient in front-end development and database management. Eager to contribute to dynamic, technology-driven environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulam161&label=Profile%20views&color=0e75b6&style=flat" alt="gulam161" /> </p>
 
@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/murtuza-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/murtuza-g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulam161&show_icons=true&locale=en" alt="gulam161" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulam161&" alt="gulam161" /></p>
+
