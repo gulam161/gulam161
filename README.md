@@ -17,5 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulam161&show_icons=true&locale=en" alt="gulam161" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulam161&" alt="gulam161" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=gulam161&](https://github-readme-streak-stats.herokuapp.com/?user=gulam161&border_radius=4.4)https://github-readme-streak-stats.herokuapp.com/?user=gulam161&border_radius=4.4" alt="gulam161" /></p>
 
