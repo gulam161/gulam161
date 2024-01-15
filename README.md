@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gulam Murtuza</h1>
-<h3 align="center">About Ambitious, results-driven frontend developer with a passion for innovative web applications. Excels in collaborative environments, working effectively with diverse teams to achieve project objectives. Proficient in front-end development and database management. Eager to contribute to dynamic, technology-driven environments.</h3>
+<h3 align="start">About Ambitious, results-driven frontend developer with a passion for innovative web applications. Excels in collaborative environments, working effectively with diverse teams to achieve project objectives. Proficient in front-end development and database management. Eager to contribute to dynamic, technology-driven environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulam161&label=Profile%20views&color=0e75b6&style=flat" alt="gulam161" /> </p>
 
